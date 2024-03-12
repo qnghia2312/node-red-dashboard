@@ -1,0 +1,12 @@
+{
+    "name": "node-red-dashboard",
+    "description": "Báo cáo cuối kì IoT",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
