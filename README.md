@@ -1,7 +1,7 @@
 node-red-dashboard
 ==================
 
-Báo cáo cuối kì IoT
+Báo cáo cuối kì IoT -  Nhóm 26 - Nguyễn Quang Nghĩa - Lê Văn Tiến
 
 ### About
 
